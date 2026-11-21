@@ -1,5 +1,7 @@
 # Nepal Service Accessibility Analysis
 
+![Pokhara Healthcare Accessibility Map](maps/pokhara-healthcare-accessibility.png)
+
 ## Project Overview
 
 A GIS-based spatial analysis examining the geographic proximity of settlements to mapped healthcare facilities in Pokhara Metropolitan City, Kaski District, Nepal.
