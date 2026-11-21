@@ -1,6 +1,6 @@
 # Nepal Service Accessibility Analysis
 
-![Pokhara Healthcare Accessibility Map](maps/pokhara-healthcare-accessibility.png)
+![Pokhara Healthcare Accessibility Map](maps/pokhara-healthcare-accessibility1.png)
 
 ## Project Overview
 
